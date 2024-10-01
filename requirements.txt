@@ -1,0 +1,11 @@
+# PYTHON v.3.9.18
+
+# Rasa framework for building the chatbot
+rasa==3.6.20
+
+# Web Framework
+Flask  # or FastAPI, depending on your choice
+# fastapi
+
+# Database libraries
+pymongo  # if using MongoDB
